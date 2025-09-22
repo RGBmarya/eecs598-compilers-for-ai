@@ -9,6 +9,6 @@
 | [MTP](https://arxiv.org/abs/2405.08965) | [Chat](https://chatgpt.com/share/68c86258-5478-800f-aab5-565053c2543d) |
 | [Relay](https://arxiv.org/abs/1904.08368) | [Chat](https://chatgpt.com/share/68c8674f-a048-800f-aa8e-896fad938661) |
 | [GEPA](https://arxiv.org/abs/2507.19457) | [Chat](https://chatgpt.com/share/68cb14f3-b924-800f-b957-10a96441d04b) |
-| [Ansor](https://arxiv.org/abs/2006.06762) | [Chat](https://chatgpt.com/share/68cb1ecb-42a8-800f-a524-df6264c8c553) | 
-
+| [Ansor](https://arxiv.org/abs/2006.06762) | [Chat](https://chatgpt.com/share/68cb1ecb-42a8-800f-a524-df6264c8c553) |
+[PyTorch2](https://dl.acm.org/doi/10.1145/3620665.3640366) | [Chat](https://chatgpt.com/share/68d0f0e8-8a4c-800f-917f-1c7e932abd61)
 ---
