@@ -13,5 +13,5 @@
 [PyTorch2](https://dl.acm.org/doi/10.1145/3620665.3640366) | [Chat](https://chatgpt.com/share/68d0f0e8-8a4c-800f-917f-1c7e932abd61) |
 [TorchBench](https://arxiv.org/pdf/2304.14226) | [Chat](https://chatgpt.com/share/68d19ea3-5218-800f-9e65-bd171b923632) | 
 [TorchTitan](https://arxiv.org/pdf/2410.06511) | [Chat](https://chatgpt.com/share/68d42b44-67a8-800f-aa80-5d2c1d4f59c5) |
-[]
+[ECLIP](https://arxiv.org/pdf/2506.12598) | [Chat](https://chatgpt.com/share/68d43b8a-ab28-800f-84d8-91475c64f3f8)
 ---
