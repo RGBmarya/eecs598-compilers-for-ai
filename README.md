@@ -19,3 +19,7 @@
 [OpFusion](https://arxiv.org/pdf/2301.13062) | [Chat](https://chatgpt.com/share/68dd4eab-09c4-800f-8a53-073f7c34c3eb) |
 [MemSafeXLA](https://arxiv.org/pdf/2206.14148) | [Chat](https://chatgpt.com/share/68dd5599-2a04-800f-9451-938e4273324a)
 ---
+
+
+## Project Proposal
+[Dynamic Distillation for Streaming](https://docs.google.com/presentation/d/1qqdtwRU5HUUHUaU62vPX-fs-4WCxq6oNetMU45sf62I/edit?usp=sharing)
