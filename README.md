@@ -17,9 +17,16 @@
 [Triton](https://dl.acm.org/doi/pdf/10.1145/3315508.3329973) | [Chat](https://chatgpt.com/share/68dad22b-1fe8-800f-9996-ab0616dd7ba7)
 [GEAK](https://arxiv.org/pdf/2507.23194) | [Chat](https://chatgpt.com/share/68dadbec-6f40-800f-a236-2a7730fde6a8)
 [OpFusion](https://arxiv.org/pdf/2301.13062) | [Chat](https://chatgpt.com/share/68dd4eab-09c4-800f-8a53-073f7c34c3eb) |
-[MemSafeXLA](https://arxiv.org/pdf/2206.14148) | [Chat](https://chatgpt.com/share/68dd5599-2a04-800f-9451-938e4273324a)
+[MemSafeXLA](https://arxiv.org/pdf/2206.14148) | [Chat](https://chatgpt.com/share/68dd5599-2a04-800f-9451-938e4273324a) |
+[MLIR](https://arxiv.org/abs/2002.11054) | TO BE ADDED |
+[Glow](https://arxiv.org/abs/1805.00907) | TO BE ADDED |
+[EffPagedAttn](https://arxiv.org/abs/2309.06180) | [Chat](https://chatgpt.com/share/68ff0346-3b3c-800f-8087-f021cbc91df0) |
+[EffLLMServ](https://arxiv.org/abs/2503.18292) | TO BE ADDED |
 ---
 
 
 ## Project Proposal
 [Dynamic Distillation for Streaming](https://docs.google.com/presentation/d/1qqdtwRU5HUUHUaU62vPX-fs-4WCxq6oNetMU45sf62I/edit?usp=sharing)
+
+## Paper Presentation
+[Efficient Memory Management for Large Language Model Serving with PagedAttention](https://docs.google.com/presentation/d/1D9YEyqfdZX8dSCyrJDeOrmhI4HEupbyIgrdRZFLvCvg/edit?usp=sharing)
