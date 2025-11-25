@@ -35,3 +35,6 @@
 
 ## Paper Presentation
 [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://docs.google.com/presentation/d/1D9YEyqfdZX8dSCyrJDeOrmhI4HEupbyIgrdRZFLvCvg/edit?usp=sharing)
+
+## Repo Deep Dive
+[vLLM - Repo Deep Dive](https://youtu.be/BpiF78Ay9yI)
