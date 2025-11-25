@@ -22,8 +22,11 @@
 [Glow](https://arxiv.org/abs/1805.00907) | [Chat](https://chatgpt.com/share/6907d95d-ece8-800f-8320-e296525d544e) |
 [EffPagedAttn](https://arxiv.org/abs/2309.06180) | [Chat](https://chatgpt.com/share/68ff0346-3b3c-800f-8087-f021cbc91df0) |
 [EffLLMServ](https://arxiv.org/abs/2503.18292) | [Chat](https://chatgpt.com/share/6907e524-8344-800f-b659-2aff61e0e221) |
-[NvidiaAmpere](https://arxiv.org/abs/2208.11174) | TO BE ADDED |
-[AMDsDTW](https://arxiv.org/abs/2403.06931ı) | TO BE ADDED |
+[NvidiaAmpere](https://arxiv.org/abs/2208.11174) | [Chat](https://chatgpt.com/share/69260f55-c394-800f-8bdb-e74e086f575b) |
+[AMDsDTW](https://arxiv.org/abs/2403.06931ı) | [Chat](https://chatgpt.com/share/69261855-9520-800f-9d8b-3a6cff367a7c) |
+[TPUs](https://arxiv.org/abs/2304.01433) | [Chat](https://chatgpt.com/share/69261cde-de70-800f-8e70-d1f06425b49b) |
+[MTIA](https://dl.acm.org/doi/pdf/10.1145/3579371.3589348) | [Chat](https://chatgpt.com/share/692622f5-642c-800f-81e6-97d830c49ee9) |
+[MLFleet](https://arxiv.org/pdf/2502.06982) | [Chat](https://chatgpt.com/share/69262b28-ce18-800f-bf2d-dfeb3cf89aba)
 ---
 
 
